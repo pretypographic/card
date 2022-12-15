@@ -1,0 +1,10 @@
+.root {
+    width: 100vh;
+    height: 100vh;
+    margin: auto;
+    padding: 3vh;
+    box-sizing: border-box;
+    background-color: #0a0a0a;
+    display: block;
+    --color: #04db00;
+}
