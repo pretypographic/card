@@ -1,0 +1,16 @@
+.popup__panel {
+    grid-row: -1/-2;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+@media (max-width: 414px) {
+    .popup__panel {
+        grid-row: auto;
+    }
+    .popup__panel:first-of-type {
+        display: none;
+    }
+}

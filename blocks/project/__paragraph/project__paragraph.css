@@ -1,0 +1,7 @@
+.project__paragraph {
+    margin-bottom: 0.5vh;
+}
+
+.project__paragraph:last-of-type {
+    margin-bottom: 0;
+}

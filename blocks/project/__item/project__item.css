@@ -1,0 +1,8 @@
+.project__item {
+    margin-bottom: 0.5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: relative;
+}

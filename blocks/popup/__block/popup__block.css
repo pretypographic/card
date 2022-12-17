@@ -1,17 +1,15 @@
-.header {
-    width: 100%;
-    height: 20vh;
-    margin-bottom: 1.5vh;
+.popup__block {
     padding: 1.5vh;
     border: 1px solid var(--color);
     border-radius: 0.5vh;
     box-sizing: border-box;
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    overflow: hidden;
 }
 
 @media (max-width: 414px) {
-    .header {
-        height: 90%;
+    .popup__block {
+        overflow: auto;
     }
 }

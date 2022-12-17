@@ -1,0 +1,27 @@
+.popup {
+    width: 94vh;
+    height: 63vh;
+    padding: 1.5vh;
+    background-color: #0a0a0a;
+    border: 1px solid var(--color);
+    border-radius: 0.5vh;
+    box-sizing: border-box;
+    display: none;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr 2vh;
+    gap: 1.5vh;
+    position: fixed;
+    top: 24.5vh;
+}
+
+@media (max-width: 414px) {
+    .popup {
+        height: 100%;
+        width: 88.8%;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 2vh;
+        grid-auto-flow: column;
+        top: 0;
+        bottom: 0;
+    }
+}

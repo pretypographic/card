@@ -1,0 +1,6 @@
+.popup__name {
+    margin-bottom: 1vh;
+    font-size: 1.3em;
+    border-bottom: 1px solid var(--color);
+    box-sizing: border-box;
+}

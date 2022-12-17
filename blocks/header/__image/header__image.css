@@ -2,7 +2,13 @@
     width: 20vh;
     height: 100%;
     border: 1px solid var(--color);
-    background-image: url(../../../images/Сандро\ зеленый.png);
+    background-image: url(../../../images/__id__image.png);
     background-size: cover;
     background-position: center;
+}
+
+@media (max-width: 414px) {
+    .header__image {
+        width: 22vh;
+    }
 }
