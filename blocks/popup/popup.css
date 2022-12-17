@@ -16,16 +16,16 @@
 
 @media (max-width: 800px) {
     .popup {
-        width: 96%;
+        width: 95.6%;
         height: 63vh;
-        top: 23.3vh;
+        top: 23.5vh;
     }
 }
 
 @media (max-width: 414px) {
     .popup {
         height: 100%;
-        width: 88.8%;
+        width: 92.8%;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 2vh;
         grid-auto-flow: column;

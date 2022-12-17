@@ -1,5 +1,6 @@
 .header__info {
     font-weight: bold;
+    box-sizing: border-box;
 }
 
 @media (max-width: 414px) {
