@@ -22,7 +22,7 @@ const settings = {
         name: 'AVANGARD',
         year: '[2022]',
         description: ['A rebus is presented to your view, in which it is necessary to assume the obligations of the administrator of occult events in the otherworld of the Black Square. To achieve exceptional heights, in this adventure it will be necessary to ensure the work of your troupe and maintain the fragile life of your experimental shelter. You will test your creativity and materialize the dimension according to your own will. A voyage into the unknown with its extraordinary inhabitants and artifacts awaits you.'],
-        images: ['./images/__avangard_0.jpg', './images/__avangard_1.jpg', './images/__avangard_2.jpg', './images/__avangard_3.jpg', './images/__avangard_4.jpg', './images/__avangard_5.jpg']
+        images: ['./images/__avangard0.jpg', './images/__avangard1.jpg', './images/__avangard2.jpg', './images/__avangard3.jpg', './images/__avangard4.jpg', './images/__avangard5.jpg']
     }
 }
 
