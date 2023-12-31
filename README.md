@@ -1,18 +1,18 @@
-# Визитная карточка
+# Business Card Website
 
-## Описание
-Этот проект представляет собой статичный сайт-визитку, который служит в качестве онлайн-CV. Он разработан с использованием HTML и CSS для верстки и оформления, а также JavaScript для реализации интерактивных элементов, таких как кнопки и навигация. Проект ориентирован на простоту и удобство использования, без интеграции сложных сборщиков как Webpack.
+## Description
+This project is a static business card site that serves as an online CV. It is developed using HTML and CSS for layout and styling, as well as JavaScript for implementing interactive elements such as buttons and navigation. The project focuses on simplicity and ease of use, without integrating complex builders like Webpack.
 
-## Системные требования
-Для запуска проекта необходимо иметь:
-- Любой современный веб-браузер (Google Chrome, Mozilla Firefox, Safari, Edge и т.д.).
-- Локальный сервер, например Live Server через VSCode или аналогичный, для корректной работы и доставки файлов.
+## System Requirements
+To run the project, you will need:
+- Any modern web browser (Google Chrome, Mozilla Firefox, Safari, Edge, etc.).
+- A local server, for example, Live Server via VSCode or similar, for correct operation and file delivery.
 
-## Инструкция по развертыванию
-Клонируйте репозиторий проекта на ваш локальный компьютер, используйте расширение, такое как Live Server, для запуска локального сервера. Откройте сайт в браузере. 
+## Deployment Instructions
+Clone the project repository to your local computer, use an extension such as Live Server to launch a local server. Open the site in a browser.
 
-## Планы по доработке
-В будущем я планирую превратить этот проект в полноценный сайт портфолио. Это будет включать:
-- Добавление секции с проектами, демонстрирующих мои навыки и опыт.
-- Интеграция формы обратной связи для удобства коммуникации.
-- Расширение функциональности JavaScript для улучшения пользовательского интерфейса.
+## Future Development Plans
+In the future, I plan to transform this project into a full-fledged portfolio website. This will include:
+- Adding a section with projects demonstrating my skills and experience.
+- Integrating a feedback form for convenient communication.
+- Expanding JavaScript functionality to enhance the user interface.
